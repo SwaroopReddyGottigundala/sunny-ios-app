@@ -1,4 +1,4 @@
-function restGrandtotal()
+function restoGrandtotal()
 {
      let rIntialTotal=parseFloat(document.querySelector('#total').value)
      let rTipPerRate=parseFloat(document.querySelector('#rate').value)
